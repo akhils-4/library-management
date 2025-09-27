@@ -1,0 +1,5 @@
+
+
+Jdbc -> HIbernate -> Spring DataJPA
+
+-> it is a module within spring to support ORM based persistance in a easy way.
